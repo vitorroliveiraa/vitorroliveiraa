@@ -1,10 +1,10 @@
 # <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> E ai, eu me chamo Vítor!
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<!--<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
 
 ### Atualmente tenho adquirido novas habilidades no [Ignite](https://rocketseat.com.br/ignite) e enviando tudo aqui.
 
-- 👨‍💻 Codando algumas APIs coisas em NodeJS com TypeScript.
+- 👨‍💻 Codando algumas APIs em NodeJS com TypeScript.
 - 📚 Próximo estudo vai ser ReactJS e afins.
 - 💪🏼 Objetivos futuros: Aprender mais techs e desenvolver mais idéias.
 - ⚡ Adoro assuntos relacionados a soft skills, então segue a gente lá no [youtube](https://www.youtube.com/channel/UCTsxSVdud5e9xqzrsVYkpRA)😁.
