@@ -4,10 +4,10 @@
 
 ### Atualmente tenho adquirido novas habilidades no [Ignite](https://rocketseat.com.br/ignite) e enviando tudo aqui.
 
-- 👨‍💻 Codando algumas APIs em NodeJS com TypeScript.
-- 📚 Próximo estudo vai ser ReactJS e afins.
-- 💪🏼 Objetivos futuros: Aprender mais techs e desenvolver mais idéias.
-- ⚡ Adoro assuntos relacionados a soft skills, então segue a gente lá no [youtube](https://www.youtube.com/channel/UCTsxSVdud5e9xqzrsVYkpRA)😁.
+- 👨‍💻 Atualmente codando algumas APIs em NodeJS/NestJS com TypeScript, GraphQL, Prisma e PostgreSQL.
+- 📚 Próximo estudo? 🤔 vai ser paradigma funcional/POO, SOLID e Clean Architecture.
+- 💪🏼 Objetivos futuros: Aperfeiçoar meus conhecimentos e aprender algo novo.
+- 💡 Adoro assuntos relacionados a soft skills, então segue a gente lá no [youtube](https://www.youtube.com/channel/UCTsxSVdud5e9xqzrsVYkpRA)😁.
 
 ---
 
