@@ -30,9 +30,6 @@
          <a href="mailto:vitorroliveiraa@outlook.com.br">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Outlook_black.png" width="32" height="32"/>
          </a>
-         <a href="https://discord.gg/EWKJE3CD">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Discord_black.png" width="32" height="32"/>
-         </a>
       </h2>
       <details align="center">
          <summary><b>Mais sobre mim</b><br></summary>
