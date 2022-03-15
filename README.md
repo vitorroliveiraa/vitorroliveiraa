@@ -2,11 +2,11 @@
 
 <!--<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
 
-### Atualmente tenho adquirido novas habilidades no [Ignite](https://rocketseat.com.br/ignite) e enviando tudo aqui.
+### Adquirindo novas habilidades no [Ignite](https://rocketseat.com.br/ignite) com o Bootcamp de Node/Typescript e muito mais.
 
-- 👨‍💻 Atualmente codando algumas APIs em NodeJS/NestJS com TypeScript, GraphQL, Prisma e PostgreSQL.
-- 📚 Próximo estudo? 🤔 vai ser paradigma funcional/POO, SOLID e Clean Architecture.
-- 💪🏼 Objetivos futuros: Aperfeiçoar meus conhecimentos e aprender coisas novas.
+- 👨‍💻 Atualmente codando algumas APIs em NodeJS com TypeScript e PostgreSQL.
+- 📚 Próximo estudo? 🤔 vai ser POO, SOLID e Clean Architecture.
+- 💪🏼 Objetivos futuros: Aperfeiçoar meus conhecimentos em backend e aprender algum framework frontend ou mobile.
 - 💡 Adoro assuntos relacionados a soft skills, então segue a gente lá no [youtube](https://www.youtube.com/channel/UCTsxSVdud5e9xqzrsVYkpRA)😁.
 
 ---
