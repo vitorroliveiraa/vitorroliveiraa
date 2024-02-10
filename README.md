@@ -4,7 +4,7 @@
 > Por aqui a gente curte tecnologia inclusiva, cross-platform, reaproveitável e leituras que agregam crescimento pessoal e profissional. 
   
 
-- 🤖 Atualmente estou desenvolvimento de um bot de criptomoedas.  
+- 🤖 Desenvolvimento atual: Digitalização de uma Ata da Reunião que ocorre na igreja que frequento.  
   
 
 - 🧑‍💻 Fortalecendo fundamentos de programação com NodeJS.  
