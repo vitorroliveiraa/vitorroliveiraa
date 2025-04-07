@@ -24,6 +24,7 @@
 <img alt="Badge" style="float: left; margin-right: 10px; border-radius: 6px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px; border-radius: 6px;" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img alt="Badge" style="float: left; margin-right: 10px; border-radius: 6px;" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px; border-radius: 6px;" src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
 </div>
 
 ## Back-end
