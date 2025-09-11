@@ -7,7 +7,7 @@
 - 🤖 Desenvolvimento atual: Digitalização de uma Ata da Reunião que ocorre na igreja que frequento.  
   
 
-- 🧑‍💻 Atulmente aprendendo fundamentos de ReactJS.  
+- 🧑‍💻 Apreendendo um pouco de ReactJS sempre que possível.  
   
 
 - 🧠 Lendo alguns livros e sempre que possível postando no [canal](https://www.youtube.com/@leiturarelevante).  
